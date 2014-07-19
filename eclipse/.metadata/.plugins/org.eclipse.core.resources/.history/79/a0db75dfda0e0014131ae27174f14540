@@ -1,0 +1,9 @@
+package com.commandoduck.modTest;
+
+import cpw.mods.fml.common.Mod;
+
+@Mod(modid="modTest",name = "modTest", "1.7.2-1.0" )
+
+public class modTest {
+
+}
